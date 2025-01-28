@@ -1,6 +1,6 @@
 #include <iostream>
-#include <atomic> //sadly I had to include another library besides iostream :(
-#include <cstdint> // for uintptr_t and agian :(((((((((((
+#include <atomic>
+#include <cstdint>
 #include <thread>
 
 struct Block {
